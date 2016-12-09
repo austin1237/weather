@@ -1,3 +1,5 @@
+# Weather<br>
+![](https://media.giphy.com/media/McZdU5M5jpkmk/giphy.gif)
 ## install the dependencies
 npm install
 
