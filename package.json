@@ -1,0 +1,15 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "express": "^4.14.0",
+    "minimist": "^1.2.0",
+    "request": "^2.79.0",
+    "underscore": "^1.8.3"
+  }
+}
